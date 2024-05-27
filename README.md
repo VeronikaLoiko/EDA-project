@@ -7,4 +7,5 @@ The process begins with loading the dataset into a pandas DataFrame and examinin
 
 Overall, this comprehensive approach to EDA helps uncover patterns, trends, and relationships within the dataset, paving the way for further analysis and modeling.
 
-![image](https://github.com/VeronikaLoiko/EDA-project/assets/170975901/2b52cd48-cbf1-4232-b178-db828aa91e15)
+![image](https://github.com/VeronikaLoiko/EDA-project/assets/170975901/2b52cd48-cbf1-4232-b178-db828aa91e15) ![image](https://github.com/VeronikaLoiko/EDA-project/assets/170975901/c378980c-b771-4c03-99db-2548009aefc1)
+
